@@ -10,7 +10,7 @@ Installation
 Clone this repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/santhk2512/style-transfer.git
+https://github.com/Suriyakumarvijayanayagam/Neural-style-transfer.git
 Install the required Python packages:
 bash
 Copy code
