@@ -16,7 +16,7 @@ Clone this repository to your local machine:
 # bash
 Copy code
 git clone https://github.com/Suriyakumarvijayanayagam/Neural-style-transfer.git
-Install the required Python packages:
+
 
 # bash
 Copy code
