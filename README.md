@@ -1,7 +1,9 @@
 # Style Transfer
 # Introduction
 Style transfer is a fascinating technique that leverages the power of deep learning and neural networks to apply the artistic style of one image to the content of another image. This project implements style transfer, allowing users to transform ordinary photos into stunning artwork.
-
+![](screenshots/test1.png)
+![](screenshots/test2.png)
+![](screenshots/test3.png)
 # Core Concept
 The core concept behind style transfer involves using a pre-trained convolutional neural network (CNN) to extract the content and style features from the input images. These features are then combined to generate a new image that preserves the content of the original while adopting the style of the reference image.
 
